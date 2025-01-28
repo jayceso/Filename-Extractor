@@ -5,7 +5,7 @@ Extracting filenames and their parent folder names into a CSV file.
 A simple batch script for **Windows** to extract filenames and their parent folder names from a specified directory and its subdirectories.
 
 ## Why I Made This
-This script was created for work purposes. My daily task was to copy filenames and folder names from projects and manually input them into Excel, which was time-consuming. Because im lazy, I created this poorly simple batch script.
+This script was created for work purposes. My daily task was to copy filenames and folder names from projects and manually input them into Excel, which was time-consuming.
 
 ## Features
 - Scans a specified directory for files
